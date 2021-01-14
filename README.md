@@ -23,4 +23,4 @@ You can see this project in operation at https://mahoobox.github.io/mobiliary/
 
 ## About
 
-This is a product made with love :fa-heart: from latam 🇨🇴
+This product was made from LATAM 🇨🇴 with :green_heart: to the world.
