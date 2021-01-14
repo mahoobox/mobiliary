@@ -14,6 +14,7 @@ This template has features like:
 - Features 
 - Map
 - Social.
+- Responsive
 
 ## Where can I see it in operation?
 
