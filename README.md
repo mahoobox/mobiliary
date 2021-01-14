@@ -15,7 +15,7 @@ This template has features like:
 - Map
 - Social.
 
-## Where can i see it in operation?
+## Where can I see it in operation?
 
 You can see this project in operation at https://mahoobox.github.io/mobiliary/
 
