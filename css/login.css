@@ -1,0 +1,45 @@
+.spinner-border{
+    margin-left: -1rem;
+    visibility: hidden;
+}
+.spinner-border.loading{
+    visibility: visible;
+}
+body {
+    font-size: .75rem;
+}
+small {
+    font-size: .70rem;
+}
+.loginImage {
+    background: url(../assets/images/main_banner.jpg) no-repeat top center;
+    background-size: auto 100%;
+}
+@media (max-width: 768px) {
+    .loginImage {
+        display: none;
+    }
+}
+.breadcrumb a{
+    color:#212529;
+}
+.breadcrumb a:hover{
+    color:#ff7b49;
+}
+form label,
+#contactanos form label {
+    font-weight: bold;
+}
+form .form-control,
+#contactanos form .form-control  {
+    border:1px solid #f8f9fa;
+    padding: 1.5rem .75rem;
+}
+form .form-control::placeholder,
+#contactanos form .form-control::placeholder {
+    color:#b3b3b3;
+}
+form .form-control:active,
+#contactanos form .form-control:active  {
+    border: 1px solid #e5e5e7;
+}
